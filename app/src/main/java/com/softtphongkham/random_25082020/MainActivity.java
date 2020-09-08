@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         //Log.d(tag: "BBB", String.valueOf(result));
         double result = Math.random();
         Log.d("BBB", String.valueOf(result));
+        fghsdfhfsg
     }
 }
